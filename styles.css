@@ -598,10 +598,14 @@ span{
     }
     .services-box:hover{
         max-width: 600px;
-        height: 50px;
+        height: 5px;
         flex:1;
         
     }
+    .services-info p{
+        opacity:0;
+     }
+   
 
 }
 
